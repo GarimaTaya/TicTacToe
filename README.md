@@ -3,8 +3,8 @@ This is a simple implementation of the classic Tic Tac Toe game in Java using Sw
 
 # How to Run
 To run the game, simply compile the TicTacToe.java file and execute the generated .class file. You can do this using the following commands in your terminal or command prompt:
-->javac TicTacToe.java
 
+->javac TicTacToe.java
 ->java TicTacToe
 
 # Gameplay
